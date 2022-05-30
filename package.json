@@ -1,0 +1,19 @@
+{
+  "name": "subnetvpn-telegram-bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot practice written in Javascript with node-telegram-bot-api.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alirezabaratian/subnetvpn-telegram-bot.git"
+  },
+  "author": "Alireza Baratian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alirezabaratian/subnetvpn-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/alirezabaratian/subnetvpn-telegram-bot#readme"
+}
